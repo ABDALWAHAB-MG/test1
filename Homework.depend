@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1689119556 source:c:\users\abdo\desktop\datastr\homework\try.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
